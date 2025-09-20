@@ -1,0 +1,12 @@
+git hub
+
+1) We have to create the github account using gmail
+2) we have to create the repo, Create a new repository give the repo name
+3) after creating the repo you will see a page with few commands
+
+
+now go to VS CODE..create the folder and add your files 
+
+1) git init -> it will init the git in our local
+2) git status -> red color..you are not added this files
+3) git add . -> this will add all the files 
