@@ -23,4 +23,6 @@ now go to VS CODE..create the folder and add your files
 
 1) do the changes
 2) git status
-3) 
+3)  git commit -> we have to provide the git commit message for commiting the code files which we have
+  (git commit -m "your commit message name")
+4) git push 
